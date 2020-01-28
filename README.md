@@ -24,9 +24,9 @@ Set rating values which are larger than 7 as 1, otherwise as 0 to be our depende
 Taking director attribute as an example, we find all movies of the director and drop out movies without rating value, calculate the average rating and assign this average to the director as his/her numerical value. If all movies of this director don’t have rating values, we set 0 to this director. The same process applies to genres, release country, stars, and writers. Reviews and dependent variable are handled the same way as described in binary attributes.
 
 # Machine Learning
-## Logistic Regression
-## Random Forest
-## Neural Network
+Logistic Regression
+Random Forest
+Neural Network
 
 # Movie Recommendation
 ## Using movie attributes to get recommendation
