@@ -9,7 +9,7 @@ Here, we displayed different graphs to help users better visualize distribution 
 
 # Text Mining 
 ## sentiment analysis
-Using Vader to assign a “compound” score to reviews for each movie.
+### Using Vader to assign a “compound” score to reviews for each movie.
 ## Similarity
 Using LSI model to detect similarity between movies.
 ## Simple analysis: Words Cloud
